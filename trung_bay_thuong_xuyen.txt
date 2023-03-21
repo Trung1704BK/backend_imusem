@@ -1,0 +1,29 @@
+{
+  "result": true,
+  "data": [
+    {
+      "title": "Lịch sử Đoàn",
+      "subtitle": "Cuộc đấu tranh tiến tới tổng khởi nghĩa giành chính quyền về tay nhân dân (1925 – 1945)",
+      "image": "https://baotangtuoitre.vn/wp-content/uploads/2022/09/lich_su_doan.png",
+      "target_url": "https://baotangtuoitre.vn/wp-json/wp/v2/posts?_fields=author,date_gmt,id,excerpt,title,link,featured_media_src_url,featured_media&categories=27"
+    },
+    {
+      "title": "Chống thực dân Pháp",
+      "subtitle": "Xây dựng chính quyền cách mạng, chống thực dân Pháp xâm lược (1945 – 1954)",
+      "image": "https://baotangtuoitre.vn/wp-content/uploads/2022/09/chong_phap.jpeg",
+      "target_url": "https://baotangtuoitre.vn/wp-json/wp/v2/posts?_fields=author,date_gmt,id,excerpt,title,link,featured_media_src_url,featured_media&categories=26"
+    },
+    {
+      "title": "Giải phóng miền Nam",
+      "subtitle": "Bảo vệ miền Bắc XHCH, đấu tranh giải phóng miền Nam (1954 – 1975)",
+      "image": "https://baotangtuoitre.vn/wp-content/uploads/2022/09/gpmn.jpeg",
+      "target_url": "https://baotangtuoitre.vn/wp-json/wp/v2/posts?_fields=author,date_gmt,id,excerpt,title,link,featured_media_src_url,featured_media&categories=28"
+    },
+    {
+      "title": "Xây dựng Tổ quốc XHCN",
+      "subtitle": "Góp phần xứng đáng vào công cuộc đổi mới đất nước (1975 – nay)",
+      "image": "https://baotangtuoitre.vn/wp-content/uploads/2022/09/xdtq.jpg",
+      "target_url": "https://baotangtuoitre.vn/wp-json/wp/v2/posts?_fields=author,date_gmt,id,excerpt,title,link,featured_media_src_url,featured_media&categories=29"
+    }
+  ]
+}
